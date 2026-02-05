@@ -143,6 +143,8 @@ h4
 
 ul li
 {
+    max-width: 100%;
+    word-break: break-word;
     color: blue;
 }
 
